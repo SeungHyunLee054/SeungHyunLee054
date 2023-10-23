@@ -1,7 +1,8 @@
 # LSH's GitHub
-### Email : seunghyun937@gmail.com
-### Blog : https://lsh-history.tistory.com
-### Notion : https://www.notion.so/Zerobase-4a9439565399475ba47ed784dd7f30cd
+책임감있는 개발자! 소통하는 개발자!
+Email : seunghyun937@gmail.com
+Blog : https://lsh-history.tistory.com
+Notion : https://www.notion.so/Zerobase-4a9439565399475ba47ed784dd7f30cd
 
 ## -Tech Stack-
 
