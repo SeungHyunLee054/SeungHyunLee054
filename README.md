@@ -1,7 +1,9 @@
+<div align="center">
+  
 # LSH's GitHub
-책임감있는 개발자! 소통하는 개발자!
-Email : seunghyun937@gmail.com
-Blog : https://lsh-history.tistory.com
+책임감있는 개발자! 소통하는 개발자! <br>
+Email : seunghyun937@gmail.com <br>
+Blog : https://lsh-history.tistory.com <br>
 Notion : https://www.notion.so/Zerobase-4a9439565399475ba47ed784dd7f30cd
 
 ## -Tech Stack-
@@ -31,4 +33,4 @@ Notion : https://www.notion.so/Zerobase-4a9439565399475ba47ed784dd7f30cd
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" />
 
 ### TEST TOOL
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /> </div>
