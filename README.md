@@ -1,7 +1,7 @@
 <div align="center">
   
 # LSH's GitHub
-책임감있는 개발자! 소통하는 개발자! <br>
+### 책임감있는 개발자! 소통하는 개발자!
 Email : seunghyun937@gmail.com <br>
 Blog : https://lsh-history.tistory.com <br>
 Notion : https://www.notion.so/Zerobase-4a9439565399475ba47ed784dd7f30cd
