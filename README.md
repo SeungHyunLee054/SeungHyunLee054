@@ -4,7 +4,7 @@
 ### 책임감있는 개발자! 소통하는 개발자!
 Email : seunghyun937@gmail.com <br>
 Blog : https://lsh-history.tistory.com <br>
-Notion : https://www.notion.so/Zerobase-4a9439565399475ba47ed784dd7f30cd
+Notion : https://www.notion.so/LSH-s-Notion-b03154fb1a6246a5ae85bc4fedcd96a6
 
 ## -Tech Stack-
 
