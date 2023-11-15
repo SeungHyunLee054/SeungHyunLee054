@@ -26,7 +26,7 @@ Notion : https://www.notion.so/LSH-s-Notion-b03154fb1a6246a5ae85bc4fedcd96a6
 ### SEARCH ENGINE
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
 
-### MONITORING TOOL
+### MONITORING
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 
 ### INFRA
