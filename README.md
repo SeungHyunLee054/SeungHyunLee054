@@ -8,7 +8,7 @@ Notion : https://www.notion.so/LSH-s-Notion-b03154fb1a6246a5ae85bc4fedcd96a6
 
 ## -Tech Stack-
 
-### IDEA
+### IDE
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
 
 ### WORK BENCH
